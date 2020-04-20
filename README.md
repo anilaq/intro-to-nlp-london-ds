@@ -11,15 +11,16 @@ Materials for this lecture have been created by [Fangfang Lee]() who created the
 
 By the end of the lesson students should be able to...
 
-* [ ] [Bloom Tanomy Verb] content of lesson.
-* [ ] [Bloom Tanomy Verb] content of lesson.
-* [ ] [Bloom Tanomy Verb] content of lesson.
-* [ ] [Bloom Tanomy Verb] content of lesson.
-* [ ] [Bloom Tanomy Verb] content of lesson.
-* [ ] [Bloom Tanomy Verb] content of lesson.
-* [ ] [Bloom Tanomy Verb] content of lesson.
-
+* [ ] Use a few common Regular Expressions and feel comfortable researching more specific ones.
+* [ ] Understand the difference between stemming and lemmatization.
+* [ ] Build a basic NLP project workflow for sentiment analysis.
+* [ ] Fit and transform text data using Sklearn's TfidfVectorizer.
+* [ ] Perform basic visualizations of text data.
 
 ## Outline 
+1. Perform basic NLP corpus statistics and EDA using NLTK
+2. Discuss the core problems of NLP
+3. Know about NLP preprocessing 
+4. Do very basic sentiment analysis
+5. Start using RegExp
 
-> Coming Soon!
